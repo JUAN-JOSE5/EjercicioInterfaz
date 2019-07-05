@@ -1,0 +1,29 @@
+
+header{
+    padding: 0em 0em 0.5em 25em;
+    background: darkblue;
+    color: white;
+}
+label{
+    margin-left: 25em;
+    margin-top: 2em;
+    
+}
+button{
+    margin-left: 36em;
+    margin-top: 0em;
+}
+ul{
+    margin-left: 24em;
+    margin-right: 24em;
+    padding: 10em 0em 0em 0em;
+    background: lightblue;
+    border: 1px solid darkblue;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+section{
+    background: lightblue;
+}
