@@ -16,9 +16,8 @@ button{
 ul{
     margin-left: 24em;
     margin-right: 24em;
-    padding: 10em 0em 0em 0em;
-    background: lightblue;
-    border: 1px solid darkblue;
+    border: 2px solid black;
+    background: white;
 }
 body{
     width: 80%;
